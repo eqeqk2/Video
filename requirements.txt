@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+pytube
+soundcloud-lib
+spotipy
+yt-dlp
+python-dotenv
